@@ -12,7 +12,6 @@ Execution:
 #Version (e.g. 4.1.0)
 #Release (e.g. 1)
 #Flavor(e.g. Ubuntu - xenial/bionic/disco/eoan/focal, Debian - buster/stretch/bullseye)
-#Type (qa/regular)
 
 #Example: 'bash generic_packager.sh.sh debian stretch 6 4.1.0 1'
 ######################################################################################
@@ -85,7 +84,7 @@ echo ${TGZS[0]}
 if [ -z ${TGZS[0]} ]; then
         echo "wget https://download.gluster.org/pub/gluster/glusterfs/${series}/${version}/glusterfs-${version}.tar.gz"
         wget https://download.gluster.org/pub/gluster/glusterfs/${series}/${version}/glusterfs-${version}.tar.gz
-        For qa release
+        #For qa release
         #echo "wget https://download.gluster.org/pub/gluster/glusterfs/qa-releases/${version}/glusterfs-${version}.tar.gz"
         #wget https://download.gluster.org/pub/gluster/glusterfs/qa-releases/${version}/glusterfs-${version}.tar.gz
 else
