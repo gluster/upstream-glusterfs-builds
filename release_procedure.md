@@ -12,10 +12,10 @@ If you are looking for minor version release, skip through below steps and start
 
 4. Create release 10 label for github issues.
 
-5. Request [redant tests](https://github.com/gluster/redant) are provisoned for new release branch by creating an issue in redant repo.
+5. Request [redant tests](https://github.com/gluster/redant) to be provisoned for new release branch by creating an issue in redant repo.
 
 6. Create branch for the new release
-   Choose a commit from where you want to branch, ideally we would take the    commit which has less failures or no failures,
+   Choose a commit from where you want to branch, ideally we would take the commit which has less failures or no failures,
    OR latest of develop branch
   
 7. Follow steps in this [link](https://hackmd.io/mv7iVDypTxiXPrtN0yVVLg?view)
@@ -23,7 +23,7 @@ If you are looking for minor version release, skip through below steps and start
 8. Update about the branch creation in community meeting. 
    Restrict branch merge to release owners (BZ request to infra)
 
- 9. Creation of release notes and remaining steps are same as in steps and information listed under the heading  **Minor version**. 
+ 9. Creation of release notes and remaining procedure is same as in steps and information listed under the heading  **Minor version**. 
 Please refer from step 4 under the heading  **Minor version** until the end of this doc.
 
 
@@ -113,7 +113,7 @@ And pinging on the releasing-and-packing channel on gchat
 > Debian:
 1. Verify all the required packages are built for specific version and OS using [community guidelines](https://docs.gluster.org/en/latest/Install-Guide/Community-Packages/) and uploaded at https://download.gluster.org/pub/gluster/glusterfs
 
-2. Make sure latest of all the versions. (Refer [Example](https://download.gluster.org/pub/gluster/glusterfs/LATEST/)), and latest of current version (Refer [Example](https://download.gluster.org/pub/gluster/glusterfs/10/LATEST/)) is updated.
+2. Make sure latest of all the versions (Refer [Example](https://download.gluster.org/pub/gluster/glusterfs/LATEST/)), and latest of current version (Refer [Example](https://download.gluster.org/pub/gluster/glusterfs/10/LATEST/)) are updated.
 
 
 > Suse:
