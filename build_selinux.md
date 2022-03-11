@@ -3,9 +3,13 @@
 ## Pre-Requisites
 
 **1. Creation of Bugzilla account if you dont have one.
+
 2. Creation of a Fedora Account
+
 3. Creation of Pagure account
+
 4. Join the important Mailing Lists
+
 5. Introduce yourself**
 
 ***Refer [link](https://docs.fedoraproject.org/en-US/package-maintainers/JoiningthePackageMaintainers/) for detailed description about the pre-requisites.***
