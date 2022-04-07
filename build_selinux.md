@@ -2,11 +2,11 @@
 
 ## Pre-Requisites
 
-1. Creation of Bugzilla account if you dont have one.
+1. Create a Bugzilla account if you dont have one.
 
-2. Creation of a Fedora Account
+2. Create a Fedora Account
 
-3. Creation of Pagure account
+3. Create a Pagure account
 
 4. Join the important Mailing Lists
 
