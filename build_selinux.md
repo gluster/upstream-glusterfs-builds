@@ -12,7 +12,7 @@
 
 5. Introduce yourself
 
-***Refer [link](https://docs.fedoraproject.org/en-US/package-maintainers/JoiningthePackageMaintainers/) for detailed description about the pre-requisites.***
+***Refer [link](https://docs.fedoraproject.org/en-US/package-maintainers/Package_Maintenance_Guide/) for detailed description about the pre-requisites.***
 
 Quick steps to build packages:
 1. kinit from the machine from which you have added ssh pub keys to fedora account
